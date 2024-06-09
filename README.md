@@ -1,6 +1,6 @@
 # Conversor de Moneda
 
-![Portada](portada.jpg)
+![Portada](portada.png)
 
 ## Insignias
 
